@@ -1,0 +1,41 @@
+body {
+    font-family: sans-serif;
+    background-color: red;
+    text-align: center;
+}
+header { 
+    background-color: beige;
+}
+h1 { 
+    text-align: center;
+}
+h2 { 
+    text-align: center;
+}
+h3 { 
+  font-size: 30px; 
+  color: beige;
+}
+nav { 
+    text-align: center;
+     padding-bottom: 20px;
+    margin-bottom: 20px;
+}
+nav a { 
+    text-decoration: none;
+    color: beige;
+    background-color: red;
+    border-radius: 15px;
+    padding: 10px;
+    margin: 15px;
+   
+}
+footer { 
+    background-color: beige;
+}
+main p { 
+    
+    color: beige; 
+    font-size: 20px;
+}
+
